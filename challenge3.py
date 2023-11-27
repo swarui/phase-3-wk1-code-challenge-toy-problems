@@ -1,4 +1,5 @@
-# Dictionary mapping each alphabet to its position in the English alphabet
+# Added alphabet position mapping
+
 alphabetic_number_position = {
     "a": 1,
     "b": 2,
