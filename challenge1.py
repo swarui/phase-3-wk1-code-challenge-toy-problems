@@ -27,5 +27,5 @@ def convert_12_hours_to_24_hours(hour, minute, period):
         return time
     
     
-result = convert_12_hours_to_24_hours(3, 30, "pm")
+result = convert_12_hours_to_24_hours(4, 30, "pm")
 print(result)
